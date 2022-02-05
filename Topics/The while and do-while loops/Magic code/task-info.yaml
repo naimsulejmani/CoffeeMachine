@@ -1,0 +1,25 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: It counts the number of '0' in the passed number.
+- text: It counts the number of digits of the passed number.
+- text: It finds the greatest digit of the passed number.
+- text: It determines whether the passed number is divided by 10.
+- text: It rearranges digits of the passed number.
+message_correct: Congratulations!
+message_incorrect: Incorrect solution
+files:
+- name: src/Task.java
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    public class Task {
+      public static void main(String[] args) {
+        // put your code here
+      }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/3365#comment
+status: Solved
+record: -1
