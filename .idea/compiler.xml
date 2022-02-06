@@ -48,6 +48,22 @@
       <module name="Coffee_Machine.Topics-Math_library-Theory.main" target="11" />
       <module name="Coffee_Machine.Topics-Math_library-What_does_random_produce.main" target="11" />
       <module name="Coffee_Machine.Topics-Math_library-What_is_true.main" target="11" />
+      <module name="Coffee_Machine.Topics-Multidimensional_array-Cinema.main" target="11" />
+      <module name="Coffee_Machine.Topics-Multidimensional_array-Getting_an_element_from_a_3D_array.main" target="11" />
+      <module name="Coffee_Machine.Topics-Multidimensional_array-Practical_applications.main" target="11" />
+      <module name="Coffee_Machine.Topics-Multidimensional_array-Printing_lengths_of_nested_arrays.main" target="11" />
+      <module name="Coffee_Machine.Topics-Multidimensional_array-Rotate_a_rectangle_array.main" target="11" />
+      <module name="Coffee_Machine.Topics-Multidimensional_array-Swap_the_columns.main" target="11" />
+      <module name="Coffee_Machine.Topics-Multidimensional_array-The_third_row.main" target="11" />
+      <module name="Coffee_Machine.Topics-Multidimensional_array-Theory.main" target="11" />
+      <module name="Coffee_Machine.Topics-Random-Gaussian_random_numbers.main" target="11" />
+      <module name="Coffee_Machine.Topics-Random-Generate_random_numbers.main" target="11" />
+      <module name="Coffee_Machine.Topics-Random-Theory.main" target="11" />
+      <module name="Coffee_Machine.Topics-StringBuilder-Behold_the_power_of_StringBuilder.main" target="11" />
+      <module name="Coffee_Machine.Topics-StringBuilder-Concat_all_strings_without_digits.main" target="11" />
+      <module name="Coffee_Machine.Topics-StringBuilder-Multiple_modifications.main" target="11" />
+      <module name="Coffee_Machine.Topics-StringBuilder-The_English_alphabet.main" target="11" />
+      <module name="Coffee_Machine.Topics-StringBuilder-Theory.main" target="11" />
       <module name="Coffee_Machine.Topics-The_while_and_do-while_loops-Collatz_conjecture.main" target="11" />
       <module name="Coffee_Machine.Topics-The_while_and_do-while_loops-Determine_the_result.main" target="11" />
       <module name="Coffee_Machine.Topics-The_while_and_do-while_loops-Determine_the_result__1_.main" target="11" />

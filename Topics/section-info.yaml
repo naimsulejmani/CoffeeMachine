@@ -4,3 +4,6 @@ content:
 - Fields and methods in enum
 - Floating-point types
 - Math library
+- Multidimensional array
+- StringBuilder
+- Random
