@@ -56,6 +56,8 @@
       <module name="Coffee_Machine.Topics-Multidimensional_array-Swap_the_columns.main" target="11" />
       <module name="Coffee_Machine.Topics-Multidimensional_array-The_third_row.main" target="11" />
       <module name="Coffee_Machine.Topics-Multidimensional_array-Theory.main" target="11" />
+      <module name="Coffee_Machine.Topics-Random-Choose_a_correct_invocation.main" target="11" />
+      <module name="Coffee_Machine.Topics-Random-Find_the_seed.main" target="11" />
       <module name="Coffee_Machine.Topics-Random-Gaussian_random_numbers.main" target="11" />
       <module name="Coffee_Machine.Topics-Random-Generate_random_numbers.main" target="11" />
       <module name="Coffee_Machine.Topics-Random-Theory.main" target="11" />
